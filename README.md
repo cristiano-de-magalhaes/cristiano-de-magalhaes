@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|Datasets para iniciantes|
+|---|
+|[Kaggle](http://www.kaggle.com)|
+|[FiveThirtyEight]()|
+|[BaseDosDados.org]()|
+|[UCI Machine Learning Repository]()|
+|[Portal da Transparência]()|
+|[Zindi.africa]()|
