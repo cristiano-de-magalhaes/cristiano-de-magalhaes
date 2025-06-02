@@ -5,6 +5,8 @@ Me chamo Cristiano de Magalhães, mas também atendo simplesmente por Cris e pra
 
 :brazil: Sou brasileiro, mas fique à vontade para me contatar de qualquer lugar do mundo. Falo e entendo principalmente os idiomas representados abaixo, mas não há nada que a IA não consiga traduzir facilmente hoje em dia.
 
+🌍 Idiomas: 🇧🇷🇵🇹🇪🇸🇬🇧🇺🇸
+
 ## Sobre mim
 
 - 🔭 Hoje trabalho com transformação digital e inovação em uma empresa de logística ferroviária e multimodal, mas programo desde 1996.
